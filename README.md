@@ -7,7 +7,6 @@ use node -v to check the version
 If you have node not installed please install it.
 Please upgrade your node and npm as well to the latest version from their websites
 you can also try this command as well to upgrade your node npm-windows-upgrade or npm i -g npm. Please visit their website for more information
-Ideally the node version should be v8.9.4 and npm version should be v6.1.0 or better
 The API usage is quantified and thus you will need to get the token for heavy usage from API website here
 
 git clone this repository
